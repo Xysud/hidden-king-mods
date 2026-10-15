@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "mods": [
+    {
+      "key": "hidden-king-extras",
+      "revision": 2026101501,
+      "gameBuilds": [
+        "6785"
+      ],
+      "stockResources": {
+        "panorama/layout/base_hud.vxml_c": "171e288593a2d49052c302ca1fd74e3ffabe3248eec7c042bfc95ed97951e01c",
+        "panorama/layout/base_dashboard.vxml_c": "0b3d2ef0d83db0bfac7a1d6062c58088939b02dd8f927f115a0d032f4ea11537"
+      },
+      "url": "https://raw.githubusercontent.com/Xysud/hidden-king-mods/main/hidden-king-extras-831432f47a51d4d27ecd3306a0bde8d02aed1713d2aef8a815771da4c495c6e0_dir.vpk",
+      "sha256": "831432f47a51d4d27ecd3306a0bde8d02aed1713d2aef8a815771da4c495c6e0"
+    }
+  ]
+}
